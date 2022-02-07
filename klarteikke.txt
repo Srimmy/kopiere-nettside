@@ -1,0 +1,4 @@
+Prøvde å lage en automatisering av alle lenker på microsoft sin "alt fra microsoft" knapp.
+Jeg fant ingen måte å sortere alt på med engang så jeg endre opp med å bare lage en haug med tekst å gå viedere.
+Hovedproblemet var å kunne gi hver array en forskjellig div, men jeg fant ingen lur måte å gjøre det på.
+lagde noe som ligner på søkefelt men det fungerte ikke som det skulle, planen var at elementene skulle få id tilbake, men de får ikke IDen.
