@@ -99,6 +99,10 @@ function endreNavbar() {
         + '<button id = "avbryt"> Avbryt </button>';
     avbrytEl = document.getElementById("avbryt");
     avbrytEl.addEventListener("click", returnerUI);
+    dropButtonEl = document.getElementById("dropButton");
+    testEl = document.getElementById("test");
+    dropDownEl = document.getElementById("dropDown");
+    søkEl = document.getElementById("søk");
 }
 
 function returnerUI() {
@@ -107,10 +111,7 @@ function returnerUI() {
     setElements();
 }
 function setElements() {
-    dropButtonEl = document.getElementById("dropButton");
-    testEl = document.getElementById("test");
-    dropDownEl = document.getElementById("dropDown");
-    søkEl = document.getElementById("søk");
+
 }
 
 
